@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and learning new skills
 - 🌱 I’m currently learning more about Blockchain Tech
 - 💞️ 2021 Goals: To Contribute more to Open Source Projects 
-- 📫 About Me & Social Links: bit.ly/3efOYUT
+- [📫 About Me & Social Links: ](bit.ly/3efOYUT)
 - Fun Fact: I Spend Most of my time Procrastinating
 
 <!---
