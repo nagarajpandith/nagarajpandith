@@ -1,6 +1,7 @@
 <div align="left">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
 </div>
+<img align="right" alt="GIF" height="200px" src='https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif' />
 <br>
 <ul>
 <li>I’m Nagaraj Pandith</li>
@@ -10,7 +11,6 @@
 <li> 📫 About Me & My Social Links: https://bit.ly/3efOYUT</li>
 <li>Fun Fact: I Spend Most of my time Procrastinating.</li>
 <br>
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
        
 ## Skills & Languages
 <p align="center">
