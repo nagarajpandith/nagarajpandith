@@ -9,6 +9,14 @@
 <li>💞️ 2021 Goals: To Contribute more to Open Source Projects.</li>
 <li> 📫 About Me & My Social Links: https://bit.ly/3efOYUT</li>
 <li>Fun Fact: I Spend Most of my time Procrastinating.</li>
+<br>
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+       
+ ## Skills & Languages
+<p align="center">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+       <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
+</p>
        
 <p align = "center">
   <img src = "https://img.shields.io/youtube/channel/views/UCGdfbV6KfEmSKlezs4EsEFw">
@@ -20,8 +28,6 @@
   <img src = https://github-readme-stats.vercel.app/api?username=nagarajpandith&count_private=true" width=400>
   <br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=nagarajpandith" width = 400>
-  <br>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajpandith&layout=compact&title_color=007bff&text_color=#000000&icon_color=007bff&bg_color=#FFFFFF" width=400>
 </p>
 
 
