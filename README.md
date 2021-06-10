@@ -14,8 +14,9 @@
 <p align = "center">
   <img src = https://github-readme-stats.vercel.app/api?username=nagarajpandith&count_private=true" width=400>
   <br>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nagarajpandith&theme=dark&hide_border=true" width = 400>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajpandith&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width=400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nagarajpandith" width = 400>
+  <br>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajpandith&layout=compact&title_color=007bff&text_color=#000000&icon_color=007bff&bg_color=#FFFFFF" width=400>
 </p>
 
 
