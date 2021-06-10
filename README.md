@@ -3,7 +3,7 @@
 </div>
 <br>
 <ul>
-       <li>I’m Nagaraj Pandith</li>
+<li>I’m Nagaraj Pandith</li>
 <li>👀 I’m interested in Cybersecurity and Web Development.</li>
 <li>🌱 I’m currently learning more about Blockchain Tech.</li>
 <li>💞️ 2021 Goals: To Contribute more to Open Source Projects.</li>
@@ -12,20 +12,20 @@
 <br>
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
        
- ## Skills & Languages
+## Skills & Languages
 <p align="center">
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+ <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"      width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"    width="100">
 </p>
 
 ## Stats
 <p align = "center">
-  <img src = "https://img.shields.io/youtube/channel/views/UCGdfbV6KfEmSKlezs4EsEFw" width="150">
-  <br>
-  <img src = "https://img.shields.io/youtube/channel/subscribers/UCGdfbV6KfEmSKlezs4EsEFw?style=social" width="200">
+ <img src = "https://img.shields.io/youtube/channel/views/UCGdfbV6KfEmSKlezs4EsEFw" width="150">
+ <br>
+ <img src = "https://img.shields.io/youtube/channel/subscribers/UCGdfbV6KfEmSKlezs4EsEFw?style=social" width="200">
 </p>
 
 <p align = "center">
-  <img src = https://github-readme-stats.vercel.app/api?username=nagarajpandith&count_private=true" width=400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=nagarajpandith&count_private=true" width = 400>
   <br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=nagarajpandith" width = 400>
 </p>
