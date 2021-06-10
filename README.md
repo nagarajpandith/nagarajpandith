@@ -1,9 +1,14 @@
-- Hi, I’m Nagaraj <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-- 👀 I’m interested in Cybersecurity and Web Development.
-- 🌱 I’m currently learning more about Blockchain Tech.
-- 💞️ 2021 Goals: To Contribute more to Open Source Projects.
-- 📫 About Me & My Social Links: [bit.ly/3efOYUT](https://bit.ly/3efOYUT)
-- Fun Fact: I Spend Most of my time Procrastinating.
+<div align="left">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
+</div>
+<br>
+<ul>
+       <li>I’m Nagaraj Pandith</li>
+<li>👀 I’m interested in Cybersecurity and Web Development.</li>
+<li>🌱 I’m currently learning more about Blockchain Tech.</li>
+<li>💞️ 2021 Goals: To Contribute more to Open Source Projects.</li>
+<li> 📫 About Me & My Social Links: https://bit.ly/3efOYUT</li>
+<li>Fun Fact: I Spend Most of my time Procrastinating.</li>
        
 <p align = "center">
   <img src = "https://img.shields.io/youtube/channel/views/UCGdfbV6KfEmSKlezs4EsEFw">
