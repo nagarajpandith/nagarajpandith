@@ -8,8 +8,8 @@
 <li>👀 I’m interested in Cybersecurity and Web Development.</li>
 <li>🌱 I’m currently learning more about Blockchain Tech.</li>
 <li>💞️ 2021 Goals: To Contribute more to Open Source Projects.</li>
-<li> 📫 About Me & My Social Links: https://bit.ly/3efOYUT</li>
-<li>Fun Fact: I Spend Most of my time Procrastinating.</li>
+<li>📫 About Me & My Social Links: https://bit.ly/3efOYUT</li>
+<li>Fun Fact: I Spend Most of my time Procrastinating, that's why I'm still a Noob at Coding!</li>
 <br>
        
 ## Skills & Languages
