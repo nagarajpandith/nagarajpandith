@@ -7,14 +7,14 @@
 <li>I’m Nagaraj Pandith</li>
 <li>I’m interested in Cybersecurity and Web Development.</li>
 <li>I’m currently learning more about Blockchain Tech.</li>
-<li>2021 Goals: To Contribute more to Open Source Projects.</li>
+<li>2021 Goals: To contribute more to Open Source Projects.</li>
 <li>About Me & My Social Links: https://bit.ly/3efOYUT</li>
 <li>Fun Fact: I Spend Most of my time Procrastinating, that's why I'm still a Noob at Coding!</li>
 <br>
        
 ## Skills & Languages
 <p align="center">
- <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"      width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"    width="100">
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"      width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"    width="100">
 </p>
 
 ## Stats
