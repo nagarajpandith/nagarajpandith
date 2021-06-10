@@ -4,13 +4,20 @@
 - 💞️ 2021 Goals: To Contribute more to Open Source Projects.
 - 📫 About Me & My Social Links: [bit.ly/3efOYUT](https://bit.ly/3efOYUT)
 - Fun Fact: I Spend Most of my time Procrastinating.
+       
+<p>
+  <a href="https://www.youtube.com/channel/UCGdfbV6KfEmSKlezs4EsEFw?sub_confirmation=1">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
+    <a href="https://www.youtube.com/channel/UCGdfbV6KfEmSKlezs4EsEFw">
+      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
+</p>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=nagarajpandith&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=nagarajpandith&theme=dark&hide_border=true" width = 400>
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajpandith&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width=400>
 </p>
-             
+
 <!---
 nagarajpandith/nagarajpandith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
