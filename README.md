@@ -21,11 +21,13 @@
 <p align = "center">
  <img src = "https://img.shields.io/youtube/channel/views/UCGdfbV6KfEmSKlezs4EsEFw" width="150">
  <br>
+ <br>
  <img src = "https://img.shields.io/youtube/channel/subscribers/UCGdfbV6KfEmSKlezs4EsEFw?style=social" width="200">
 </p>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=nagarajpandith&count_private=true" width = 400>
+  <br>
   <br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=nagarajpandith" width = 400>
 </p>
@@ -34,10 +36,11 @@
 <p align="center">
     <a href="https://twitter.com/materrwelonnn" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-</a> 
+    </a> <br> 
+    <br> 
     <a href="https://instagram.com/nagarajpandithh" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-</a>
+    </a>
 
 
 <!---
