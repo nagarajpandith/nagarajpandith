@@ -5,11 +5,10 @@
 - 📫 About Me & My Social Links: [bit.ly/3efOYUT](https://bit.ly/3efOYUT)
 - Fun Fact: I Spend Most of my time Procrastinating.
        
-<p>
-  <a href="https://www.youtube.com/channel/UCGdfbV6KfEmSKlezs4EsEFw?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://www.youtube.com/channel/UCGdfbV6KfEmSKlezs4EsEFw">
-      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
+<p align = "center">
+  <img src = "https://img.shields.io/youtube/channel/views/UCGdfbV6KfEmSKlezs4EsEFw">
+  <br>
+  <img src = "https://img.shields.io/youtube/channel/subscribers/UCGdfbV6KfEmSKlezs4EsEFw?style=social">
 </p>
 
 <p align = "center">
