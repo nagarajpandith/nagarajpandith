@@ -5,8 +5,8 @@
 <br>
 <ul>
 <li>I’m Nagaraj Pandith</li>
-<li>I’m interested in Cybersecurity and Web Development.</li>
-<li>I’m currently learning more about Blockchain Tech.</li>
+<li>I'm interested in Cybersecurity and Web Development.</li>
+<li>I sometimes spend my time learning Video editing, Motion FX, Infographics etc.</li>
 <li>2021 Goals: To contribute more to Open Source Projects.</li>
 <li>About Me & My Social Links: https://bit.ly/3efOYUT</li>
 <li>Fun Fact: I Spend Most of my time Procrastinating, that's why I'm still a Noob at Coding!</li>
