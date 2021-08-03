@@ -3,7 +3,7 @@
 </div>
 <img align="center" alt="GIF" height="300px" src='https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true' />
 
-I’m Nagaraj Pandith, an 18-year old tech enthusiast interested in Cybersecurity and Web Development. I sometimes spend my time learning Video editing, Motion FX, Infographics etc. My 2021 goals are to contribute more to Open Source Projects. 
+I’m Nagaraj Pandith, an 18-year old tech enthusiast interested in Front-end Web Development. I sometimes spend my time learning Video editing, Motion FX, Infographics etc. My 2021 goals are to contribute more to Open Source Projects. 
      
 ## Languages
 <p align="center">
