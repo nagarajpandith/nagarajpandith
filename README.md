@@ -3,7 +3,7 @@
 </div>
 <img align="center" alt="GIF" height="300px" src='https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true' />
 
-I’m Nagaraj Pandith, an 18-year old tech enthusiast interested in Front-end Web Development. I sometimes spend my time learning Video editing, Motion FX, Infographics etc. My 2021 goals are to contribute more to Open Source Projects. 
+I’m Nagaraj Pandith, an 18-year old tech enthusiast passionate about Front-end Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time learning Video editing, VFX Visual Effects, data visualization etc. My 2021 goals are to contribute more to Open Source Projects. 
      
 ## Languages
 <p align="center">
@@ -27,14 +27,13 @@ I’m Nagaraj Pandith, an 18-year old tech enthusiast interested in Front-end We
 
 ## Get in touch
 <p align="center">
-    <a href="https://twitter.com/materrwelonnn" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-    </a> <br> 
-    <br> 
-    <a href="https://instagram.com/nagarajpandithh" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+    <a href="mailto:nagaraj.pandith2002@gmail.com" target="_blank">
+    <img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" height="50px" alt="mail"/>
     </a>
-
+    <a href="https://instagram.com/nagarajpandithh" target="_blank">
+    <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" height="50px" alt="Instagram"/>
+    </a>
+     
 
 <!---
 nagarajpandith/nagarajpandith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
