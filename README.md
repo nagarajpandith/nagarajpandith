@@ -3,7 +3,7 @@
 </div>
 <img align="center" alt="GIF" height="200px" width="300px" src='https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true' />
 
-I’m Nagaraj Pandith, an 18-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time learning Video editing, VFX Visual Effects, data visualization etc. 
+I’m Nagaraj Pandith, an 18-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time learning Video editing, VFX Visual Effects, data visualization etc. I'm currently trying my hands on learning [Next.js](https://nextjs.org)
 
 A lil' backstory of mine. Technology and Computers always fascinated me since childhood. Back in 2017, I had developed an interest in Cybersecurity and constantly explored the Security field. My curiosity in Web development grew in 2019 observing beautiful Web UIs on Personal and Business web pages. I then started my journey learning basic internet fundamentals, Javascript and other stuff throughout my journey.
 
@@ -22,12 +22,15 @@ Here is a list of the technologies that I'm familar with!
 <img src="https://www.svgrepo.com/show/374016/python.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp
 </p>
 
-## Frameworks & Libraries
+## Frameworks, Libraries & Databases
 <p align="center">
 <img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://camo.githubusercontent.com/55c96f41fc5dba5af624827c4205fdb469978360e0554d081b71cab80d0b2e1d/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e706e67" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Tools & Tech
@@ -36,8 +39,9 @@ Here is a list of the technologies that I'm familar with!
 <img src="https://www.svgrepo.com/show/312259/github.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/349404/heroku.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
 
 ## Stats
