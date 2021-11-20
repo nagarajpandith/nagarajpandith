@@ -44,7 +44,7 @@ Here is a list of the technologies that I'm familar with!
 <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
 
-## Stats
+## Real-time Stats
 <p align = "center">
  <img src = "https://img.shields.io/youtube/channel/views/UCGdfbV6KfEmSKlezs4EsEFw" width="150">
  <br>
@@ -58,6 +58,17 @@ Here is a list of the technologies that I'm familar with!
   <br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=nagarajpandith" width = 400>
 </p>
+
+## Featured Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=nmamit-sr)](https://github.com/nagarajpandith/nmamit-sr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=Hostel-Site)](https://github.com/nagarajpandith/Hostel-Site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=weather-app)](https://github.com/nagarajpandith/weather-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=netflix-clone)](https://github.com/nagarajpandith/netflix-clone)
+
+## Read/Watch some of my work:
+- [Starting Web Development the right way in 2021](https://medium.com/@nagarajpandith/starting-web-development-the-right-way-in-2021-f134df468917)
+- [Understanding Rapists](https://www.youtube.com/watch?v=GLADFRPFpVk)
+- [Black & White Fungus](https://www.youtube.com/watch?v=OQnCfx3X7X4)
 
 ## Get in touch
 <p align="center">
