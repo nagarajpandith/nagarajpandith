@@ -15,11 +15,11 @@ Here is a list of the technologies that I'm familar with!
      
 ## Languages
 <p align="center">
-<img src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667"  height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" height="100px">&nbsp;&nbsp;&nbsp;&nbsp
+<img src="https://www.svgrepo.com/show/374016/python.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp
 </p>
 
 ## Frameworks & Libraries
@@ -30,13 +30,14 @@ Here is a list of the technologies that I'm familar with!
 <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Tools
+## Tools & Tech
 <p align="center">
 <img src="https://www.svgrepo.com/show/373623/git.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/312259/github.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
 ## Stats
