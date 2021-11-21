@@ -38,7 +38,6 @@ Here is a list of the technologies that I'm familar with!
 <img src="https://www.svgrepo.com/show/373623/git.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/312259/github.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349404/heroku.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
