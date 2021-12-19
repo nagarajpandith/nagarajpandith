@@ -3,11 +3,11 @@
 </div>
 <img align="center" alt="GIF" height="200px" width="300px" src='https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true' />
 
+[Portfolio Website ](https://www.nagarajpandith.live)|[ Resume  ](https://www.nagarajpandith.live/resume.pdf)|[ LinkedIN](https://www.linkedin.com/in/nagaraj-pandith/)
+
 I’m Nagaraj Pandith, an 18-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time learning Video editing, VFX Visual Effects, data visualization etc. I'm currently trying my hands on learning [Next.js](https://nextjs.org)
 
-A lil' backstory of mine. Technology and Computers always fascinated me since childhood. Back in 2017, I had developed an interest in Cybersecurity and constantly explored the Security field. My curiosity in Web development grew in 2019 observing beautiful Web UIs on Personal and Business web pages. I then started my journey learning basic internet fundamentals, Javascript and other stuff throughout my journey.
-
-Fast forward to now, I'm a proficient front-end web developer and aspire to become a full stack developer by the end of 2021. I also love creating videos on Adobe Premiere Pro and making tiny motion graphics on Adobe After effects as well. Ocassionally, I also write tech articles on [Medium](https://medium.com/@nagarajpandith) and also create videos on my [YouTube channel](https://www.youtube.com/c/TheMaterrwelonn).
+I also love creating videos on Adobe Premiere Pro and making tiny motion graphics on Adobe After effects as well. Ocassionally, I also write tech articles on [Medium](https://medium.com/@nagarajpandith) and also create videos on my [YouTube channel](https://www.youtube.com/c/TheMaterrwelonn).
 
 While not working on a project, you'll find me watching a Crime thriller or some business case study documentary.
 
