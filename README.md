@@ -9,7 +9,7 @@ I’m Nagaraj Pandith, an 18-year old tech enthusiast passionate about Web Devel
 
 I also love creating videos on Adobe Premiere Pro and making tiny motion graphics on Adobe After effects as well. Ocassionally, I also write tech articles on [Medium](https://medium.com/@nagarajpandith) and also create videos on my [YouTube channel](https://www.youtube.com/c/TheMaterrwelonn).
 
-While not working on a project, you'll find me watching a Crime thriller or some business case study documentary.
+While not working on a project, you'll find me watching a Crime thriller or jamming to some EDM banger.
 
 Here is a list of the technologies that I'm familar with! 
      
