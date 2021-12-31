@@ -5,7 +5,7 @@
 
 [Portfolio Website ](https://www.nagarajpandith.live)|[ Resume  ](https://www.nagarajpandith.live/resume.pdf)|[ LinkedIN](https://www.linkedin.com/in/nagaraj-pandith/)
 
-I’m Nagaraj Pandith, an 18-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time learning Video editing, VFX Visual Effects, data visualization etc. I'm currently trying my hands on learning [Next.js](https://nextjs.org)
+I’m Nagaraj Pandith, an 19-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time learning Video editing, VFX Visual Effects, data visualization etc. I'm currently trying my hands on learning [Next.js](https://nextjs.org)
 
 I also love creating videos on Adobe Premiere Pro and making tiny motion graphics on Adobe After effects as well. Ocassionally, I also write tech articles on [Medium](https://medium.com/@nagarajpandith) and also create videos on my [YouTube channel](https://www.youtube.com/c/TheMaterrwelonn).
 
