@@ -65,6 +65,7 @@ Here is a list of the technologies that I'm familar with!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=netflix-clone)](https://github.com/nagarajpandith/netflix-clone)
 
 ## Read/Watch some of my work:
+- [“Has anyone seen web3?”- A Complete roadmap & free resources to become Web3 Developer](https://link.medium.com/uf2sQI9rEmb)
 - [Starting Web Development the right way in 2021](https://medium.com/@nagarajpandith/starting-web-development-the-right-way-in-2021-f134df468917)
 - [Understanding Rapists](https://www.youtube.com/watch?v=GLADFRPFpVk)
 - [Black & White Fungus](https://www.youtube.com/watch?v=OQnCfx3X7X4)
