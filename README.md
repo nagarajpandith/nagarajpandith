@@ -62,7 +62,7 @@ Here is a list of the technologies that I'm familar with!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=nmamit-sr)](https://github.com/nagarajpandith/nmamit-sr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=Hostel-Site)](https://github.com/nagarajpandith/Hostel-Site)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=weather-app)](https://github.com/nagarajpandith/weather-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=netflix-clone)](https://github.com/nagarajpandith/netflix-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=netflix-2.0)](https://github.com/nagarajpandith/netflix-2.0)
 
 ## Read/Watch some of my work:
 - [“Has anyone seen web3?”- A Complete roadmap & free resources to become Web3 Developer](https://link.medium.com/uf2sQI9rEmb)
