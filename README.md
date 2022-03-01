@@ -3,11 +3,13 @@
 </div>
 <img align="center" alt="GIF" height="200px" width="300px" src='https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true' />
 
+![](https://komarev.com/ghpvc/?username=nagarajpandith&color=brightgreen)
+
 [Portfolio Website ](https://www.nagarajpandith.live)|[ Resume  ](https://www.nagarajpandith.live/resume.pdf)|[ LinkedIN](https://www.linkedin.com/in/nagaraj-pandith/)
 
-I’m Nagaraj Pandith, an 19-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time learning Video editing, VFX Visual Effects, data visualization etc. I'm currently trying my hands on learning [Next.js](https://nextjs.org)
+I’m Nagaraj Pandith, a 19-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time gaming and binge watching YouTube videos. I'm currently trying my hands on getting better at [Next.js](https://nextjs.org) + [Prisma](https://www.prisma.io/) stack.
 
-I also love creating videos on Adobe Premiere Pro and making tiny motion graphics on Adobe After effects as well. Ocassionally, I also write tech articles on [Medium](https://medium.com/@nagarajpandith) and also create videos on my [YouTube channel](https://www.youtube.com/c/TheMaterrwelonn).
+I also love creating videos on Adobe Premiere Pro and making tiny motion graphics on Adobe After effects as well. Ocassionally, I also write tech articles on [Medium](https://medium.com/@nagarajpandith) and create videos on my [YouTube channel](https://www.youtube.com/c/TheMaterrwelonn).
 
 While not working on a project, you'll find me watching a Crime thriller or jamming to some EDM banger.
 
@@ -30,8 +32,8 @@ Here is a list of the technologies that I'm familar with!
 <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/354399/strapi-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/354200/postgresql.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://camo.githubusercontent.com/55c96f41fc5dba5af624827c4205fdb469978360e0554d081b71cab80d0b2e1d/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e706e67" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -43,6 +45,7 @@ Here is a list of the technologies that I'm familar with!
 <img src="https://www.svgrepo.com/show/349404/heroku.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://www.svgrepo.com/show/303190/after-effects-cc-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Real-time Stats
@@ -59,10 +62,10 @@ Here is a list of the technologies that I'm familar with!
 </p>
 
 ## Featured Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=live-stream-studio-booking)](https://github.com/nagarajpandith/live-stream-studio-booking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=nmamit-sr)](https://github.com/nagarajpandith/nmamit-sr)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=Hostel-Site)](https://github.com/nagarajpandith/Hostel-Site)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=weather-app)](https://github.com/nagarajpandith/weather-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=netflix-2.0)](https://github.com/nagarajpandith/netflix-2.0)
 
 ## Read/Watch some of my work:
 - [“Has anyone seen web3?”- A Complete roadmap & free resources to become Web3 Developer](https://link.medium.com/uf2sQI9rEmb)
@@ -72,20 +75,23 @@ Here is a list of the technologies that I'm familar with!
 
 ## Get in touch
 <p align="center">
+    <a href="https://www.discord.com/users/hashclan#4890" target="_blank">
+    <img src="https://www.svgrepo.com/show/349338/discord.svg" height="40px" alt="mail"/>
+    </a>&nbsp;&nbsp;
     <a href="mailto:nagaraj.pandith2002@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" height="40px" alt="mail"/>
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
     </a>&nbsp;&nbsp;
     <a href="https://instagram.com/nagarajpandithh" target="_blank">
-    <img src="https://www.svgrepo.com/show/111199/instagram.svg" height="40px" alt="Instagram"/>
+    <img src="https://www.svgrepo.com/show/134478/instagram.svg" height="40px" alt="Instagram"/>
     </a>&nbsp;&nbsp;
      <a href="https://t.me/hashclan" target="_blank">
     <img src="https://www.svgrepo.com/show/65315/telegram.svg" height="40px" alt="Telegram"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/nagaraj-pandith-8a1560226/" target="_blank">
-    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" height="40px"/>
+    <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.youtube.com/c/TheMaterrwelonn" target="_blank">
-    <img src="https://www.svgrepo.com/show/157839/youtube.svg" height="40px"/>
+    <img src="https://www.svgrepo.com/show/95009/youtube.svg" height="40px"/>
     </a>
 </p>
 
