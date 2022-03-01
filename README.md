@@ -67,6 +67,11 @@ Here is a list of the technologies that I'm familar with!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=hackverse22)](https://github.com/nagarajpandith/hackverse22)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=Hostel-Site)](https://github.com/nagarajpandith/Hostel-Site)
 
+<p align="center">
+    <a href="https://github.com/nagarajpandith?tab=repositories" target="_blank">View More on Github
+    </a>
+</p>
+
 ## Read/Watch some of my work:
 - [“Has anyone seen web3?”- A Complete roadmap & free resources to become Web3 Developer](https://link.medium.com/uf2sQI9rEmb)
 - [Starting Web Development the right way in 2021](https://medium.com/@nagarajpandith/starting-web-development-the-right-way-in-2021-f134df468917)
@@ -76,7 +81,7 @@ Here is a list of the technologies that I'm familar with!
 ## Get in touch
 <p align="center">
     <a href="https://www.discord.com/users/hashclan#4890" target="_blank">
-    <img src="https://www.svgrepo.com/show/349338/discord.svg" height="40px" alt="mail"/>
+    <img src="https://www.svgrepo.com/show/349338/discord.svg" height="40px" alt="discord"/>
     </a>&nbsp;&nbsp;
     <a href="mailto:nagaraj.pandith2002@gmail.com" target="_blank">
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
