@@ -64,7 +64,7 @@ Here is a list of the technologies that I'm familar with!
 ## Featured Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=live-stream-studio-booking)](https://github.com/nagarajpandith/live-stream-studio-booking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=nmamit-sr)](https://github.com/nagarajpandith/nmamit-sr)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=hackverse22)](https://github.com/nagarajpandith/hackverse22)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=Hostel-Site)](https://github.com/nagarajpandith/Hostel-Site)
 
 ## Read/Watch some of my work:
