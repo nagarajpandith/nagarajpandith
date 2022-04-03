@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nagarajpandith&color=brightgreen)
 
-[Portfolio Website ](https://www.nagarajpandith.live)|[ Resume  ](https://www.nagarajpandith.live/resume.pdf)|[ LinkedIN](https://www.linkedin.com/in/nagaraj-pandith/)
+[Portfolio Website ](https://www.nagarajpandith.live)|[ Resume  ](https://drive.google.com/file/d/1o_sngTGSg7DiGbG6yW3QqTzjwcaud6KU/view)|[ LinkedIN](https://www.linkedin.com/in/nagaraj-pandith/)
 
 I’m Nagaraj Pandith, a 19-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time gaming and binge watching YouTube videos. I'm currently trying my hands on getting better at [Next.js](https://nextjs.org) + [Prisma](https://www.prisma.io/) stack.
 
