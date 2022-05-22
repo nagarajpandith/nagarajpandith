@@ -7,7 +7,7 @@
 
 [Portfolio Website ](https://www.nagarajpandith.live)|[ Resume  ](https://drive.google.com/file/d/1o_sngTGSg7DiGbG6yW3QqTzjwcaud6KU/view)|[ LinkedIN](https://www.linkedin.com/in/nagaraj-pandith/)
 
-I’m Nagaraj Pandith, a 19-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time gaming and binge watching YouTube videos. I'm currently trying my hands on getting better at [Next.js](https://nextjs.org) + [Prisma](https://www.prisma.io/) stack.
+I’m Nagaraj Pandith, a 19-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time gaming and binge watching YouTube videos. 
 
 I also love creating videos on Adobe Premiere Pro and making tiny motion graphics on Adobe After effects as well. Ocassionally, I also write tech articles on [Medium](https://medium.com/@nagarajpandith) and create videos on my [YouTube channel](https://www.youtube.com/c/TheMaterrwelonn).
 
@@ -26,11 +26,13 @@ Here is a list of the technologies that I'm familar with!
 
 ## Frameworks, Libraries & Databases
 <p align="center">
+<img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349502/sass.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/374002/prisma.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/354399/strapi-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/354200/postgresql.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,7 +64,7 @@ Here is a list of the technologies that I'm familar with!
 </p>
 
 ## Featured Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=live-stream-studio-booking)](https://github.com/nagarajpandith/live-stream-studio-booking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=portfolio)](https://github.com/nagarajpandith/portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=nmamit-sr)](https://github.com/nagarajpandith/nmamit-sr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=hackverse22)](https://github.com/nagarajpandith/hackverse22)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=Hostel-Site)](https://github.com/nagarajpandith/Hostel-Site)
