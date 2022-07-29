@@ -48,6 +48,7 @@ Here is a list of the technologies that I'm familar with!
 <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://www.svgrepo.com/show/303190/after-effects-cc-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Real-time Stats
@@ -65,7 +66,7 @@ Here is a list of the technologies that I'm familar with!
 
 ## Featured Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=portfolio)](https://github.com/nagarajpandith/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=nmamit-sr)](https://github.com/nagarajpandith/nmamit-sr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=le-waks-menu)](https://github.com/nagarajpandith/le-waks-menu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=hackverse22)](https://github.com/nagarajpandith/hackverse22)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=Hostel-Site)](https://github.com/nagarajpandith/Hostel-Site)
 
