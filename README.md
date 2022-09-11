@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nagarajpandith&color=brightgreen)
 
-[Portfolio Website ](https://www.nagarajpandith.live)|[ Resume  ](https://drive.google.com/file/d/1o_sngTGSg7DiGbG6yW3QqTzjwcaud6KU/view)|[ LinkedIN](https://www.linkedin.com/in/nagaraj-pandith/)
+[Portfolio Website ](https://nagarajpandith.vercel.app/)|[ Resume  ](https://drive.google.com/file/d/1o_sngTGSg7DiGbG6yW3QqTzjwcaud6KU/view)|[ LinkedIN](https://www.linkedin.com/in/nagaraj-pandith/)
 
 I’m Nagaraj Pandith, a 19-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time gaming and binge watching YouTube videos. 
 
