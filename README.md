@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nagarajpandith&color=brightgreen)
 
-<a href="[https://github.com/nagarajpandith?tab=repositories](https://nagarajpandith.vercel.app/)" target="_blank"><img align="left" alt="View More on Github" src="https://dabuttonfactory.com/button.png?t=Portfolio&f=Open+Sans-Bold&ts=30&tc=000&hp=45&vp=20&c=11&bgt=unicolored&bgc=fff" height=26px></a>
+<a href="https://nagarajpandith.vercel.app/" target="_blank"><img align="left" alt="View More on Github" src="https://dabuttonfactory.com/button.png?t=Portfolio&f=Open+Sans-Bold&ts=30&tc=000&hp=45&vp=20&c=11&bgt=unicolored&bgc=fff" height=26px></a>
 <a href="https://drive.google.com/file/d/1o_sngTGSg7DiGbG6yW3QqTzjwcaud6KU/view" target="_blank"><img align="left" alt="View More on Github" src="https://dabuttonfactory.com/button.png?t=Resume&f=Open+Sans-Bold&ts=30&tc=000&hp=45&vp=20&c=11&bgt=unicolored&bgc=fff" height=26px></a>
 <a href="https://www.linkedin.com/in/nagaraj-pandith/" target="_blank"><img align="left" alt="View More on Github" src="https://dabuttonfactory.com/button.png?t=LinkedIn&f=Open+Sans-Bold&ts=30&tc=000&hp=45&vp=20&c=11&bgt=unicolored&bgc=fff" height=26px></a>
 <br/>
@@ -46,6 +46,9 @@ Here is a list of the technologies that I'm familar with!
 <p align="center">
    <img src="https://www.svgrepo.com/show/373623/git.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/312259/github.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1024px-Google_Apps_Script.svg.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/show/452202/figma.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/show/376328/jira.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -92,6 +95,9 @@ Here is a list of the technologies that I'm familar with!
    </a>&nbsp;&nbsp;
    <a href="https://www.youtube.com/c/TheMaterrwelonn" target="_blank">
    <img src="https://www.svgrepo.com/show/95009/youtube.svg" height="40px"/>
+   </a>&nbsp;&nbsp;
+   <a href="https://medium.com/@nagarajpandith" target="_blank">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" height="40px"/>
    </a>
 </p>
 <!---
