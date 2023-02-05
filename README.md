@@ -54,15 +54,15 @@ Here is a list of the technologies that I'm familar with!
 
 ## Real-time Stats
 <p align = "left">
-   <img src = "https://github-readme-stats-ruby-one.vercel.app/api?username=nagarajpandith&count_private=true" width = 400>
+   <img src = "https://github-readme-stats.vercel.app/api?username=nagarajpandith&count_private=true" width = 400>
    <img src = "https://github-readme-streak-stats.herokuapp.com?user=nagarajpandith" width = 400>
 </p>
 
 ## Featured Repos
-[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=nagarajpandith&repo=portfolio)](https://github.com/nagarajpandith/portfolio)
-[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=nagarajpandith&repo=le-waks-menu)](https://github.com/nagarajpandith/le-waks-menu)
-[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=nagarajpandith&repo=cas)](https://github.com/nagarajpandith/cas)
-[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=nagarajpandith&repo=live-stream-studio-booking)](https://github.com/nagarajpandith/live-stream-studio-booking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=portfolio)](https://github.com/nagarajpandith/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=le-waks-menu)](https://github.com/nagarajpandith/le-waks-menu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=cas)](https://github.com/nagarajpandith/cas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=live-stream-studio-booking)](https://github.com/nagarajpandith/live-stream-studio-booking)
 
 <a href="https://github.com/nagarajpandith?tab=repositories" target="_blank"><img align="left" alt="View More on Github" src="https://dabuttonfactory.com/button.png?t=View+More+on+Github&f=Open+Sans-Bold&ts=30&tc=000&hp=45&vp=20&c=11&bgt=unicolored&bgc=fff" height=26px></a>
 <br/>
